@@ -13,8 +13,8 @@ browser = webdriver.Chrome('./chromedriver')
 
 
 # akun shopee isi nama passwordnya
-shopee_name = "double.88"
-shopee_pass = "Asukirik1822"
+shopee_name = ""
+shopee_pass = ""
 
 
 # login shopee , pastikan autenfikasi 2 faktor mati biar gampang dan cepet
