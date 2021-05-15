@@ -9,8 +9,8 @@ import sys
 browser = webdriver.Chrome('./chromedriver')  # disini letak driver ente
 
 # akun shopee isi nama passwordnya
-shopee_name = "double.88"
-shopee_pass = "Asukirik1822"
+shopee_name = ""
+shopee_pass = ""
 
 # login shopee , pastikan autenfikasi 2 faktor mati biar gampang
 browser.get('https://shopee.co.id/buyer/login?from=https%3A%2F%2Fshopee.co.id%2F&next=https%3A%2F%2Fshopee.co.id%2F')
